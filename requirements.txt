@@ -7,3 +7,4 @@ seaborn
 torchsummary
 torchvision
 kagglehub
+imageio
