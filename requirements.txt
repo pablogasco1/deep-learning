@@ -8,3 +8,4 @@ torchsummary
 torchvision
 kagglehub
 imageio
+scikit-image
