@@ -9,3 +9,8 @@ torchvision
 kagglehub
 imageio
 scikit-image
+torchinfo
+
+
+# for LLMs
+tiktoken

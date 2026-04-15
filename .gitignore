@@ -1,5 +1,7 @@
 venv/
-notebooks/data/
 .vscode/
 myexamples/santander_data/
+myexamples/data/
 DUDL_PythonCode/
+LLM_course-main/
+notebooks_deep_learning/data/
