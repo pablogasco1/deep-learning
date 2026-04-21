@@ -7,11 +7,9 @@ seaborn
 torchsummary
 torchvision
 kagglehub
-imageio
 scikit-image
-torchinfo
-
 
 # for LLMs
 tiktoken
+transformers
 gensim
